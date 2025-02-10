@@ -1,3 +1,4 @@
+#NO NEED TO CHECK THIS FILE
 """
 Django settings for DjangoProject project.
 
